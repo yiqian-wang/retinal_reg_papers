@@ -34,9 +34,13 @@ https://www.hindawi.com/journals/ijbi/2010/906067/
 
 ## Learning-based
 
-- (assume aligned, CT) VoxelMorph \
+- (assume aligned) Deformable medical image registration using generative adversarial networks \
+https://ieeexplore.ieee.org/document/8363845
+
+- (assume aligned) Elastic registration of medical images with gans \
+https://arxiv.org/pdf/1805.02369.pdf
+
+- (assume aligned, 3DCT) VoxelMorph \
 https://arxiv.org/pdf/1809.05231.pdf \
 code: https://github.com/voxelmorph/voxelmorph
 
-- (assume aligned) Deformable medical image registration using generative adversarial networks \
-https://ieeexplore.ieee.org/document/8363845
