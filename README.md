@@ -34,10 +34,16 @@ https://www.hindawi.com/journals/ijbi/2010/906067/
 
 ## Learning-based
 
-- (assume aligned) Deformable medical image registration using generative adversarial networks \
+- 2020 (perspective) A segmentation based robust deep learning frameworkfor multimodal retinal image registration \
+https://ieeexplore.ieee.org/abstract/document/9054077
+
+- 2018 (affine) A deep step pattern representation for multimodal  retinal  image  registration \
 https://ieeexplore.ieee.org/document/8363845
 
-- (assume aligned) Elastic registration of medical images with gans \
+- 2018 (assume aligned) Deformable medical image registration using generative adversarial networks \
+https://ieeexplore.ieee.org/document/8363845
+
+- 2018 (assume aligned) Elastic registration of medical images with gans \
 https://arxiv.org/pdf/1805.02369.pdf
 
 - (assume aligned, 3DCT) VoxelMorph \
