@@ -7,10 +7,10 @@ Personal paper list in retinal image registration
 https://jerryhotaiwan.github.io/files/ISOCC_Jerry_v6.pdf
 
 - 2020 (perspective) Robust Content-Adaptive Global Registration for Multimodal Retinal Images Using Weakly Supervised Deep-Learning Framework \
-https://ieeexplore.ieee.org/abstract/document/9054077
+https://par.nsf.gov/servlets/purl/10279980
 
 - 2020 (perspective) A segmentation based robust deep learning frameworkfor multimodal retinal image registration \
-https://ieeexplore.ieee.org/abstract/document/9054077
+https://par.nsf.gov/servlets/purl/10279984
 
 - 2019 (deformable, assume affine aligned) Joint vessel segmentation and deformable registration on multi-modal retinal images based on style transfer \
 https://ieeexplore.ieee.org/abstract/document/8802932 \
